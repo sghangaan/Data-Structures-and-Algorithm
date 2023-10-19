@@ -145,9 +145,8 @@ Display, Input, Output, Edit. <br>
 Original Program Specification:
 Write a program that will display if the entered student's
 grade is passed of failed. Passing grade is 70. <br>
-
 <p align="center">
-  <img src="https://github.com/SG-Hangaan/Data-Structures-and-Algorithm/assets/127215110/cdbfbc62-85cc-48ee-b1a3-291d368e1e7f"/>
+  <img src="https://github.com/SG-Hangaan/Data-Structures-and-Algorithm/assets/127215110/4b6fcd1f-7173-4ad4-8f62-ebf473e20139"/>
 </p>
 
 
