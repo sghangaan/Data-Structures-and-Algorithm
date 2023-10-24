@@ -40,7 +40,7 @@ public class IntroDSA001 {
 				     }  
 				    
 				    System.out.println("\nSum " + sum);
-				    	System.out.println("Do you want to Select Option? [Y/N]: ");				    	
+				    		    	
 			    break;
 						
 			case 2:  // Optipn 2: Sum of Digits
