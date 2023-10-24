@@ -26,3 +26,6 @@ advanced algorithms for specialized tasks such as pattern matching and network f
 their efficiency and performance characteristics.<br>
 
 By the end of this course, you'll not only be well-versed in essential data structures and algorithms but also possess the skills to approach new problems methodically and efficiently. Whether you're pursuing a career in software engineering, competitive programming, or academia, this course will equip you with the knowledge and confidence to succeed.
+
+# License
+This repository is open-source and is licensed under the MIT License. Feel free to use, modify, and distribute the code for your own projects.
