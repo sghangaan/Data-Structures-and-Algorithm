@@ -108,8 +108,10 @@ non-negative integer n0 such that f(n) < c g(n) for every n > n0.
 
 
 # Illustration of Big Oh
---- UNDONE
 
+<p align="center">
+<img src="https://github.com/SG-Hangaan/Data-Structures-and-Algorithm/assets/127215110/59819cb7-82e0-401c-95e8-56f1c461dfa2"/>
+</p>
 
 # Expressing Algorithm
 Algorithms can be expressed in many kinds of notation,
