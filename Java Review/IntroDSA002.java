@@ -108,7 +108,7 @@ public class IntroDSA002 {
 	public static void discplaychoices() {
 		
     		System.out.println("\t__________________________________________________");
-    		System.out.println("\t         [   Introduction Part 1    ]            ");
+    		System.out.println("\t         [   Introduction Part 2    ]            ");
     		System.out.println("\t=================================================="); 
     		System.out.println("\n\tOption 1: String Copy");
     		System.out.println("\tOption 2: String Concatenation");
