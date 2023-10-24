@@ -1,7 +1,6 @@
 package ArrayImplementation;
 
-/*
- *                Pseudocode
+/* Pseudocode
 	START
 	Print"1. SUM OF N NUMBER IN AN ARRAY."
 	Print "Input size values: "
@@ -20,12 +19,11 @@ package ArrayImplementation;
 	            Add the array of i and store it to the variable of sum
 	         increment the value of i
 	      EndFor
-	Print �Sum  size  value: �
+	Print "Sum  size  value: "
 	Print sum
-	End.
+	End. */
 
- * 
- */
+
 
 import java.util.Scanner;
 
