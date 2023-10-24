@@ -78,7 +78,18 @@ public class ArrayMaxMin {
 						break;
 						}
 					}
+					ENDOFPROGRAM ();
 				}
-			}
+	
+
+	static void ENDOFPROGRAM () {
+		System.out.println("\n");
+		System.out.println("# =========================================================================== #");		
+		System.out.println("|                   2022 @ Sharon Grace T. Hangaan                            |");
+		System.out.println("|             Follow me in: https://github.com/SG-Hangaan                     |");
+		System.out.println("|                  Email: sharonygracehangaan@gmail.com                       |");
+		System.out.println("# =========================================================================== #");	
+	}
+}
 	
 
