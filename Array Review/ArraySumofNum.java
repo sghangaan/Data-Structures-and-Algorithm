@@ -50,7 +50,17 @@ public static void main(String[] args) {
 		for (int i = 0; i< size;i++) {
 				sum=sum+number[i];
 			}
-			System.out.println("Sum " +  size + " value "+sum);	
+			System.out.println("Sum " +  size + " value "+sum);
+			ENDOFPROGRAM ();
+	}
+
+static void ENDOFPROGRAM () {
+		System.out.println("\n");
+		System.out.println("# =========================================================================== #");		
+		System.out.println("|                   2022 @ Sharon Grace T. Hangaan                            |");
+		System.out.println("|             Follow me in: https://github.com/SG-Hangaan                     |");
+		System.out.println("|                  Email: sharonygracehangaan@gmail.com                       |");
+		System.out.println("# =========================================================================== #");	
 	}
 
 }
