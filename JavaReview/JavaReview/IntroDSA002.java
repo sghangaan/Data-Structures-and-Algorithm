@@ -1,3 +1,4 @@
+package JavaReview.JavaReview;
 import java.util.Scanner;
 
 public class IntroDSA002 {

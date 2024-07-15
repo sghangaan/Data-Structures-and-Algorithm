@@ -1,10 +1,10 @@
 # Introduction to Data Structure
 
-# DATA STRUCTURES
+### DATA STRUCTURES
 
 The structural representation of logical relationships between elements of data. The building blocks of a program. A way to store and organize data in order to facilitate the access and modifications. The method of representing of logical relationships between individual data elements related to the solution of a given problem.
 
-# PEMDAS 
+### PEMDAS 
 stands for P- Parentheses, E- Exponents, M-Multiplication, D- Division, A- Addition, and S- Subtraction. <br>
 
 - used to mention the order of operations to be followed while solving expressions having multiple operations.
@@ -40,7 +40,7 @@ data item stored first will be accessed first.
   <img src="https://github.com/SG-Hangaan/Data-Structures-and-Algorithm/assets/127215110/0c3f3632-84f5-4c9d-8f29-972d566b99c7"/>
 </p>
 
-# TYPES OF DATA STRUCTURE
+### TYPES OF DATA STRUCTURE
 
 
 
@@ -67,7 +67,7 @@ Formal Language – Pseudo-Language Program <br>
 Data Structure - Java Program <br>
 
 
-# Algorithm
+## Algorithm
 
 It is a step-by-step finite sequence of instructions, to solve a well-defined computational problem. To solve any complex real-life problem.
 
