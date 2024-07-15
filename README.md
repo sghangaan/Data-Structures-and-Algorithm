@@ -29,3 +29,11 @@ By the end of this course, you'll not only be well-versed in essential data stru
 
 # License
 This repository is open-source and is licensed under the MIT License. Feel free to use, modify, and distribute the code for your own projects.
+
+# Contributing
+
+Contributions are welcome! Please open an issue or submit a pull request for any improvements or new pattern implementations.
+
+# Contact
+
+For any questions or feedback, please contact Sharon Grace at sghangaan@proton.me
